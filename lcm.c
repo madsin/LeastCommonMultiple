@@ -15,7 +15,7 @@ int main ( int argc, char **argv ) {
 
     /* Parse arguments */
     if ( argc < 3 ) {
-        printf ( "Usage: kgv number1 number2 [...]\n" );
+        printf ( "Usage: lcm number1 number2 [...]\n" );
         return -1;
     } else {
     	numbers = (long long unsigned int *) malloc ( (argc-1) * sizeof(int) );
