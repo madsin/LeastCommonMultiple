@@ -1,4 +1,0 @@
-LeastCommonMultiple
-===================
-
-Small tool to determine the least common multiple and greatest common divisor of numbers.
